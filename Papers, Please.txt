@@ -1,0 +1,11 @@
+Name = Gordon
+
+
+Destination = Unknown
+
+Location = Gotham
+
+Passport = True
+
+Black = Mesa
+
